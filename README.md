@@ -1,4 +1,4 @@
-To run the app: 
+To run the app after your pull: 
 - composer install 
 - create data folder in var, then create contact.sqlite in it 
 - run php bin/console doctrine:database:create 
