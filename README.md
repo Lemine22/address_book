@@ -1,4 +1,4 @@
-To run the app after your pull: 
+To run the app after cloning the project: 
 - composer install 
 - create data folder in var, then create contact.sqlite in it 
 - run php bin/console doctrine:database:create to create the database
